@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ULAK Logo](img/logo.png)
+<img src="img/logo.png" alt="ULAK Logo" width="120"/>
 
 **Fast, Secure, and Easy File Sharing Across Your Local Network**
 
@@ -75,16 +75,16 @@
 - **Features**: Full feature set with native Windows integration
 
 ### 🐧 Linux
-- **Distributions**: Ubuntu, Debian, Fedora, Arch, and more
-- **Installation**: System package or standalone Python script
+- **Distributions**: Pardus, Ubuntu, Linux Mint, Zorin OS, (All Debian-based Distributions)
+- **Installation**: System package or standalone Python script or .DEB
 - **Features**: Full feature set with desktop integration
 - **Icon**: Properly integrated with system theme
 
 ### 🤖 Android
 - **Version**: Android 6.0+
-- **Installation**: APK download
+- **Installation**: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) or APK download
 - **Features**: Mobile-optimized interface with all core features
-- **Permissions**: Network access only
+- **Permissions**: Network access, File and Gallery access
 
 ---
 
@@ -93,9 +93,9 @@
 ### For Beginners
 
 1. **Download ULAK** for your platform:
-   - Windows: Download `.exe` from [Releases](https://github.com/cektor/ULAK/releases)
-   - Linux: Download and run `install.sh`
-   - Android: Download and install `.apk`
+   - Windows: Download `.exe` from [Releases](https://github.com/cektor/ULAK/releases) page
+   - Linux: Download and install `.deb` file
+   - Android: Download and install `.apk` file or install from [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)
 
 2. **Install** the application on all devices you want to share files between
 
