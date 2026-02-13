@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ULAK Logo](img/logo.png)
+<img src="img/logo.png" alt="ULAK Logo" width="120"/>
 
 **Yerel Ağınızda Hızlı, Güvenli ve Kolay Dosya Paylaşımı**
 
@@ -75,16 +75,16 @@
 - **Özellikler**: Yerel Windows entegrasyonu ile tam özellik seti
 
 ### 🐧 Linux
-- **Dağıtımlar**: Ubuntu, Debian, Fedora, Arch ve daha fazlası
-- **Kurulum**: Sistem paketi veya bağımsız Python scripti
+- **Dağıtımlar**: Pardus, Ubuntu, Linux Mint, Zorin OS, (Debian Tabanlı Tüm Dağıtımlar)
+- **Kurulum**: Sistem paketi veya bağımsız Python scripti yada .DEB
 - **Özellikler**: Masaüstü entegrasyonu ile tam özellik seti
 - **İkon**: Sistem teması ile düzgün entegre
 
 ### 🤖 Android
 - **Sürüm**: Android 6.0+
-- **Kurulum**: APK indirme
+- **Kurulum**: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya APK indirme
 - **Özellikler**: Tüm temel özelliklerle mobil optimize arayüz
-- **İzinler**: Sadece ağ erişimi
+- **İzinler**: Ağ erişimi, Dosya ve Galeri Erişimi
 
 ---
 
@@ -94,8 +94,9 @@
 
 1. **ULAK'ı İndirin** platformunuz için:
    - Windows: [Releases](https://github.com/cektor/ULAK/releases) sayfasından `.exe` indirin
-   - Linux: `install.sh` dosyasını indirin ve çalıştırın
-   - Android: `.apk` dosyasını indirin ve kurun
+   - Linux: `.deb.` dosyasını indirin ve çalıştırın
+   - Android: `.apk` dosyasını indirin ve kurun yada Google Play Store'dan yükleyin
+
 
 2. **Uygulamayı kurun** dosya paylaşmak istediğiniz tüm cihazlara
 
