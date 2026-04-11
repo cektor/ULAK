@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_gradient">
+
+    <ScrollView
+        android:id="@+id/settingsScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+        <!-- Neon Title -->
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="⚙️ Ayarlar"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="@color/neon_cyan"
+            android:shadowColor="@color/neon_cyan"
+            android:shadowRadius="15" />
+
+        <!-- Device Name Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            app:cardBackgroundColor="@color/transparent"
+            app:cardElevation="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card_neon"
+                android:padding="16dp">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Cihaz Adı"
+                    android:textColorHint="@color/text_secondary"
+                    app:boxStrokeColor="@color/neon_blue"
+                    app:hintTextColor="@color/neon_blue">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/deviceNameInput"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/text_primary" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- Settings Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            app:cardBackgroundColor="@color/transparent"
+            app:cardElevation="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card_neon"
+                android:padding="16dp">
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/encryptionSwitch"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="🔒 AES-256 Şifreleme"
+                    android:textColor="@color/text_primary"
+                    android:textSize="16sp"
+                    app:thumbTint="@color/switch_thumb_color"
+                    app:trackTint="@color/switch_track_color" />
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/notificationSwitch"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="🔔 Bildirimler"
+                    android:textColor="@color/text_primary"
+                    android:textSize="16sp"
+                    android:layout_marginTop="16dp"
+                    app:thumbTint="@color/switch_thumb_color"
+                    app:trackTint="@color/switch_track_color" />
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/wifiDirectSwitch"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="📡 Wi-Fi Direct"
+                    android:textColor="@color/text_primary"
+                    android:textSize="16sp"
+                    android:layout_marginTop="16dp"
+                    app:thumbTint="@color/switch_thumb_color"
+                    app:trackTint="@color/switch_track_color" />
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/autoAcceptSwitch"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="✅ Otomatik Kabul Et"
+                    android:textColor="@color/text_primary"
+                    android:textSize="16sp"
+                    android:layout_marginTop="16dp"
+                    app:thumbTint="@color/switch_thumb_color"
+                    app:trackTint="@color/switch_track_color" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/autoAcceptNote"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Gelen dosya ve metinler otomatik kabul edilir"
+                    android:textSize="12sp"
+                    android:textColor="@color/text_secondary"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginStart="4dp" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- Encryption Password Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            app:cardBackgroundColor="@color/transparent"
+            app:cardElevation="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/bg_card_neon"
+                android:padding="16dp">
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/encryptionPasswordLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🔒 Şifreleme Parolası"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/neon_green"
+                    android:visibility="gone" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/encryptionPasswordLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Şifreleme Parolası (Boş bırakılırsa varsayılan)"
+                    android:textColorHint="@color/text_secondary"
+                    android:layout_marginTop="8dp"
+                    android:visibility="gone"
+                    app:boxStrokeColor="@color/neon_green"
+                    app:hintTextColor="@color/neon_green">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/encryptionPasswordInput"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textPassword"
+                        android:textColor="@color/text_primary" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:id="@+id/encryptionPasswordNote"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="⚠️ Not: Aynı parolayı kullanan cihazlar arası transfer yapılabilir"
+                    android:textSize="12sp"
+                    android:textColor="@color/neon_pink"
+                    android:layout_marginTop="8dp"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- About Button -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/aboutButton"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="Hakkında"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/bg_button_gradient"
+            android:layout_marginTop="24dp" />
+
+        <!-- National Project Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            app:cardBackgroundColor="#1e3a5f"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:gravity="center_vertical">
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🇹🇷"
+                    android:textSize="32sp"
+                    android:layout_marginEnd="12dp" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Yerli ve Milli Proje, TÜRK Yazılımcılar Tarafından Geliştirilmiştir."
+                    android:textSize="14sp"
+                    android:textColor="#87CEEB"
+                    android:textStyle="normal" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- Download Desktop Button -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/downloadDesktopButton"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="🪟 🍎 🐧 🤖 Windows - MacOS - Linux - Android İçin İndir"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_button_green"
+            android:layout_marginTop="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Neon Bottom Navigation -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0f1729"
+        app:itemIconTint="@color/bottom_nav_color"
+        app:itemTextColor="@color/bottom_nav_color"
+        app:itemRippleColor="@color/neon_cyan"
+        app:itemActiveIndicatorStyle="@style/BottomNavIndicator"
+        app:menu="@menu/bottom_nav_menu" />
+
+</LinearLayout>

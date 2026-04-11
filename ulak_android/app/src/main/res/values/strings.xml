@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ULAK</string>
+    <string name="send">Gönder</string>
+    <string name="receive">Al</string>
+    <string name="settings">Ayarlar</string>
+    <string name="about">Hakkında</string>
+    
+    <!-- Hakkında Bölümü -->
+    <string name="about_title">ULAK - Güvenli Dosya Paylaşımı</string>
+    <string name="about_version">Versiyon</string>
+    <string name="about_description">ULAK, yerel ağ üzerinden güvenli ve hızlı dosya paylaşımı sağlayan açık kaynak bir uygulamadır. AES-256 şifreleme ile verileriniz güvende.</string>
+    <string name="about_developer_label">Geliştirici:</string>
+    <string name="about_algsoft">ALGSoft Inc.</string>
+    <string name="about_algsoft_url">https://algsoft.net.tr</string>
+    <string name="about_fatih">Fatih ÖNDER (CekToR)</string>
+    <string name="about_fatih_url">https://fatihonder.org.tr</string>
+    <string name="about_website_label">ULAK Websitesi</string>
+    <string name="about_website_url">https://ulak.algsoft.net.tr</string>
+    <string name="about_github_label">Github:</string>
+    <string name="about_github_url">https://github.com/cektor/ULAK</string>
+</resources>

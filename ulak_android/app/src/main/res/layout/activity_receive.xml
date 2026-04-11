@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_gradient"
+    android:padding="20dp">
+
+    <!-- Neon Title -->
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="📥 Alınanlar"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/neon_purple"
+        android:shadowColor="@color/neon_purple"
+        android:shadowRadius="15" />
+
+    <!-- Action Bar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/historyCountText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Geçmiş"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_secondary" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/openFolderButton"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:text="📁"
+            android:textSize="20sp"
+            android:background="@drawable/bg_button_blue"
+            app:cornerRadius="12dp"
+            android:layout_marginEnd="12dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/clearButton"
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:text="Temizle"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/bg_button_red"
+            app:cornerRadius="12dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp" />
+    </LinearLayout>
+
+    <!-- History List -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/historyRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="16dp"
+        android:clipToPadding="false"
+        android:paddingTop="8dp" />
+
+    <!-- Neon Bottom Navigation -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0f1729"
+        app:itemIconTint="@color/bottom_nav_color"
+        app:itemTextColor="@color/bottom_nav_color"
+        app:itemRippleColor="@color/neon_cyan"
+        app:itemActiveIndicatorStyle="@style/BottomNavIndicator"
+        app:menu="@menu/bottom_nav_menu" />
+
+</LinearLayout>

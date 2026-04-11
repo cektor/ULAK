@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_gradient">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+    <!-- Neon Title -->
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="📤 Gönder"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/neon_blue"
+        android:shadowColor="@color/neon_blue"
+        android:shadowRadius="15" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/encryptionStatusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🔒 Şifreli gönderiyorsunuz (AES-256)"
+        android:textSize="14sp"
+        android:textColor="@color/neon_green"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:shadowColor="@color/neon_green"
+        android:shadowRadius="10"
+        android:layout_marginTop="12dp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/deviceCountText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yakındaki Cihazlar"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary"
+        android:layout_marginTop="24dp" />
+
+    <!-- Devices List -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/devicesRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:nestedScrollingEnabled="false" />
+
+    <!-- Action Buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="24dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/selectFileButton"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:text="📄 Dosya"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/bg_button_blue"
+            android:layout_marginEnd="8dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sendTextButton"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:text="💬 Metin"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/bg_button_gradient"
+            android:layout_marginEnd="8dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sendClipboardButton"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:text="📋 Pano"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_button_green" />
+    </LinearLayout>
+
+    <!-- Main Send Button -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/sendButton"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="📤 GÖNDER"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:background="@drawable/bg_button_gradient"
+        android:layout_marginTop="16dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Neon Bottom Navigation -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0f1729"
+        app:itemIconTint="@color/bottom_nav_color"
+        app:itemTextColor="@color/bottom_nav_color"
+        app:itemRippleColor="@color/neon_cyan"
+        app:itemActiveIndicatorStyle="@style/BottomNavIndicator"
+        app:menu="@menu/bottom_nav_menu" />
+
+</LinearLayout>
