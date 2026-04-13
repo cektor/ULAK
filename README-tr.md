@@ -7,7 +7,7 @@
 **Yerel Ağınızda Hızlı, Güvenli ve Kolay Dosya Paylaşımı**
 
 [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Android-blue)](https://github.com/cektor/ULAK)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android-blue)](https://github.com/cektor/ULAK)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 
 [English](README.md) | [Türkçe](README-tr.md)
@@ -25,7 +25,9 @@
 - 🚀 **Yıldırım Hızı** - Yerel ağ üzerinden doğrudan cihazdan cihaza transfer
 - 🔒 **Güvenli** - Hassas dosyalar için isteğe bağlı AES-256 şifreleme
 - 🎯 **Basit** - Yapılandırma gerekmez, sadece kurun ve paylaşın
-- 🌐 **Çapraz Platform** - Windows, Linux ve Android'de çalışır
+- 🌐 **Çapraz Platform** - Windows, Linux, macOS ve Android'de çalışır
+- 📡 **WiFi Direct** - Yönlendirici olmadan doğrudan cihaz bağlantısı (Windows, Linux, Android)
+- 🔗 **Link ile Paylaşım** - Tarayıcı üzerinden erişilebilir paylaşım linkleri oluşturun
 - 📱 **Otomatik Keşif** - Ağınızdaki cihazları otomatik bulur
 - 💯 **Ücretsiz ve Açık Kaynak** - Reklam yok, takip yok, abonelik yok
 
@@ -52,6 +54,16 @@
 - Hazırlık için 3 saniyelik geri sayım
 - Seçili cihazlara doğrudan gönderim
 
+### 📡 WiFi Direct
+- Yönlendirici veya erişim noktası olmadan cihazlar arası doğrudan bağlantı
+- **Desteklenen platformlar:** Windows, Linux, Android
+- İnternet erişimi olmayan ortamlarda ideal
+
+### 🔗 Link ile Paylaşım
+- Dosyalarınız için paylaşılabilir bağlantılar oluşturun
+- Alıcı tarayıcısı üzerinden indirebilir
+- **Tüm platformlarda** desteklenir
+
 ### 🔐 Güvenlik Özellikleri
 - **AES-256 Şifreleme** - Dosyalarınız için askeri düzey şifreleme
 - **Parola Koruması** - Özel şifreleme parolaları belirleyin
@@ -72,19 +84,38 @@
 ### 🪟 Windows
 - **Sürüm**: Windows 10/11
 - **Kurulum**: Taşınabilir çalıştırılabilir dosya veya yükleyici
-- **Özellikler**: Yerel Windows entegrasyonu ile tam özellik seti
+- **Özellikler**: Sistem tepsisi, klavye kısayolları, WiFi Direct ve link paylaşımı dahil tam özellik seti
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### 🐧 Linux
-- **Dağıtımlar**: Pardus, Ubuntu, Linux Mint, Zorin OS, (Debian Tabanlı Tüm Dağıtımlar)
-- **Kurulum**: Sistem paketi veya bağımsız Python scripti yada .DEB
-- **Özellikler**: Masaüstü entegrasyonu ile tam özellik seti
-- **İkon**: Sistem teması ile düzgün entegre
+- **Dağıtımlar**: Pardus, Ubuntu, Linux Mint, Zorin OS (Debian Tabanlı Tüm Dağıtımlar)
+- **Kurulum**: Sistem paketi, bağımsız Python scripti veya .DEB
+- **Özellikler**: Masaüstü entegrasyonu, WiFi Direct ve link paylaşımı dahil tam özellik seti
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+
+### 🍎 macOS
+- **Sürüm**: macOS 11+ (Intel ve Apple Silicon)
+- **Kurulum**: Uygulama paketi (.app)
+- **Özellikler**: Yerel macOS entegrasyonu ile link paylaşımı dahil tam özellik seti
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### 🤖 Android
-- **Sürüm**: Android 6.0+
+- **Sürüm**: Android 7.0+
 - **Kurulum**: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya APK indirme
-- **Özellikler**: Tüm temel özelliklerle mobil optimize arayüz
+- **Özellikler**: WiFi Direct ve link paylaşımı dahil tüm temel özelliklerle mobil optimize arayüz
 - **İzinler**: Ağ erişimi, Dosya ve Galeri Erişimi
+- **İndir**: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)
+
+---
+
+## 📥 İndirme
+
+| Platform | İndirme |
+|----------|---------|
+| 🪟 Windows | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🐧 Linux | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🍎 macOS | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 
 ---
 
@@ -93,10 +124,8 @@
 ### Yeni Başlayanlar İçin
 
 1. **ULAK'ı İndirin** platformunuz için:
-   - Windows: [Releases](https://github.com/cektor/ULAK/releases) sayfasından `.exe` indirin
-   - Linux: `.deb.` dosyasını indirin ve çalıştırın
-   - Android: `.apk` dosyasını indirin ve kurun yada Google Play Store'dan yükleyin
-
+   - Windows/Linux/macOS: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
+   - Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)'dan yükleyin veya `.apk` dosyasını indirin
 
 2. **Uygulamayı kurun** dosya paylaşmak istediğiniz tüm cihazlara
 
@@ -155,6 +184,21 @@ python main.py
 5. **"📤 Gönder" butonuna tıklayın**
 6. **Alıcı transferi kabul eder**
 7. **Tamamlandı!** Dosyalar İndirilenler klasörüne kaydedildi
+
+### Link ile Paylaşma
+
+1. Paylaşmak istediğiniz dosyayı seçin
+2. "🔗 Link Oluştur"a tıklayın
+3. Oluşturulan linki kopyalayın ve alıcıyla paylaşın
+4. Alıcı herhangi bir tarayıcıdan dosyayı indirebilir
+5. Tüm platformlarda desteklenir
+
+### WiFi Direct ile Paylaşma (Windows, Linux, Android)
+
+1. Her iki cihazda da WiFi Direct modunu etkinleştirin
+2. Cihazlar birbirini otomatik keşfeder
+3. Normal paylaşım akışıyla devam edin
+4. Yönlendirici veya internet bağlantısı gerekmez
 
 ### Metin Gönderme
 
@@ -216,6 +260,7 @@ python main.py
 - ✅ İsteğe bağlı olarak dosyaları AES-256 ile şifreler
 - ✅ Ayarları cihazınızda yerel olarak saklar
 - ✅ UDP broadcast kullanarak cihazları otomatik keşfeder
+- ✅ WiFi Direct ile yönlendirici olmadan bağlantı kurar
 
 ### ULAK Neler YAPMAZ
 - ❌ İnternete bağlanmaz
@@ -235,7 +280,7 @@ python main.py
 ## 🌐 Ağ Gereksinimleri
 
 ### İhtiyacınız Olanlar
-- Tüm cihazlar **aynı yerel ağda** olmalı (aynı WiFi/router)
+- Tüm cihazlar **aynı yerel ağda** olmalı (aynı WiFi/router) **veya** WiFi Direct kullanılabilir
 - **53317 ve 53318 portları** açık olmalı (genellikle otomatik)
 - İnternet bağlantısı gerekmez
 
@@ -253,7 +298,7 @@ sudo ufw allow 53317/tcp
 sudo ufw allow 53318/udp
 ```
 
-**Android**:
+**Android / macOS**:
 ```
 Genellikle yapılandırma gerekmez
 ```
@@ -264,8 +309,8 @@ Genellikle yapılandırma gerekmez
 
 ### Windows
 - **Taşınabilir**: Sadece `.exe` dosyasını çalıştırın
-- **Yükleyici**: Yakında
 - **Gereksinimler**: Windows 10/11, ek yazılım gerekmez
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### Linux
 - **Sistem Kurulumu**: `/usr/share/ulak/` konumuna kurulur
@@ -273,12 +318,18 @@ Genellikle yapılandırma gerekmez
 - **Desktop Entry**: Uygulama menüsüne eklenir
 - **Yapılandırma**: `~/.config/ulak/` içinde saklanır
 - **Gereksinimler**: Python 3.8+, PyQt5, cryptography
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+
+### macOS
+- **Gereksinimler**: macOS 11+ (Intel ve Apple Silicon desteklenir)
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### Android
+- **Play Store**: [Google Play'den İndir](https://play.google.com/store/apps/details?id=com.ulak)
 - **APK Kurulumu**: Ayarlardan "Bilinmeyen Kaynaklar"ı etkinleştirin
-- **İzinler**: Sadece ağ erişimi
+- **İzinler**: Ağ erişimi, Dosya ve Galeri erişimi
 - **Depolama**: İndirilenler klasörü
-- **Gereksinimler**: Android 6.0+
+- **Gereksinimler**: Android 7.0+
 
 ---
 
@@ -343,7 +394,9 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 - 📋 Pano paylaşımı
 - 📸 Ekran görüntüsü paylaşımı
 - 🔒 AES-256 şifreleme
-- 🌐 Çapraz platform desteği (Windows, Linux, Android)
+- 🌐 Çapraz platform desteği (Windows, Linux, macOS, Android)
+- 📡 WiFi Direct desteği (Windows, Linux, Android)
+- 🔗 Link ile paylaşım desteği (Tüm platformlar)
 - 🎨 Modern karanlık tema arayüz
 - 📊 Gerçek zamanlı transfer ilerlemesi
 - 🔔 Bildirimler ve sesler
@@ -356,7 +409,7 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 1. Tüm cihazların aynı ağda olduğundan emin olun
 2. Güvenlik duvarı ayarlarını kontrol edin
 3. Her iki cihazda da ULAK'ı yeniden başlatmayı deneyin
-4. 53317 ve 53318 portlarının engellenm ediğini doğrulayın
+4. 53317 ve 53318 portlarının engellenmediğini doğrulayın
 
 ### Transfer Başarısız Oluyor
 1. Her iki cihazda şifreleme ayarlarının eşleştiğini kontrol edin
@@ -381,7 +434,7 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 
 ### Yardım Alın
 - 📧 E-posta: info@algyazilim.com
-- 🌐 Web Sitesi: https://algyazilim.com
+- 🌐 Web Sitesi: https://ulak.algsoft.net.tr
 - 🐱 GitHub: https://github.com/cektor/ULAK
 - 📖 Dokümantasyon: [Wiki](https://github.com/cektor/ULAK/wiki)
 
@@ -392,7 +445,7 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 
 ---
 
-## 👨💻 Katkıda Bulunanlar
+## 👨‍💻 Katkıda Bulunanlar
 
 ### Geliştirici
 **Fatih ÖNDER (CekToR)**
@@ -449,6 +502,6 @@ ULAK'ı yararlı buluyorsanız, lütfen GitHub'da yıldız vermeyi düşünün! 
 
 **ALG Yazılım tarafından ❤️ ile yapıldı**
 
-[İndir](https://github.com/cektor/ULAK/releases) • [Dokümantasyon](https://github.com/cektor/ULAK/wiki) • [Hata Bildir](https://github.com/cektor/ULAK/issues) • [Özellik İste](https://github.com/cektor/ULAK/discussions)
+[İndir](https://ulak.algsoft.net.tr) • [GitHub](https://github.com/cektor/ULAK/releases) • [Play Store](https://play.google.com/store/apps/details?id=com.ulak) • [Hata Bildir](https://github.com/cektor/ULAK/issues)
 
 </div>
