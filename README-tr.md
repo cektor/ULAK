@@ -453,7 +453,7 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 - E-posta: fatih@algsoft.net.tr
 
 ### Şirket
-**ALGSoft Inc. & Elektronik Inc.**
+**ALGSoft Inc.**
 - Web Sitesi: https://algsoft.net.tr
 - E-posta: info@algsoft.net.tr
 
@@ -471,7 +471,7 @@ ULAK, **MIT Lisansı** altında lisanslanmıştır.
 ```
 MIT Lisansı
 
-Telif Hakkı (c) 2025 ALGSoft Inc. & Elektronik Inc.
+Telif Hakkı (c) 2025 ALGSoft Inc.
 
 İşbu belge ile, bu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım")
 bir kopyasını alan herhangi bir kişiye, Yazılım'ı kullanma, kopyalama, değiştirme,

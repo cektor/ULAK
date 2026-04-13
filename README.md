@@ -453,7 +453,7 @@ We welcome contributions! Here's how you can help:
 - Email: fatih@algsoft.net.tr
 
 ### Company
-**ALGSoft Inc. & Elektronik Inc.**
+**ALGSoft Inc.**
 - Website: https://algsoft.net.tr
 - Email: info@algsoft.net.tr
 
@@ -471,7 +471,7 @@ ULAK is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2025 ALGSoft Inc. & Elektronik Inc.
+Copyright (c) 2025 ALGSoft Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
