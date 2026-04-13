@@ -143,7 +143,7 @@
 ```bash
 # Repository'yi klonlayın
 git clone https://github.com/cektor/ULAK.git
-cd ULAK/localsend_app/ulak_linux
+cd ULAK/ulak_linux
 
 # Bağımlılıkları yükleyin
 pip3 install -r requirements.txt
@@ -159,7 +159,7 @@ ulak
 ```bash
 # Repository'yi klonlayın
 git clone https://github.com/cektor/ULAK.git
-cd ULAK/localsend_app
+cd ULAK
 
 # Bağımlılıkları yükleyin
 pip install -r requirements.txt

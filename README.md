@@ -143,7 +143,7 @@
 ```bash
 # Clone repository
 git clone https://github.com/cektor/ULAK.git
-cd ULAK/localsend_app/ulak_linux
+cd ULAK/ulak_linux
 
 # Install dependencies
 pip3 install -r requirements.txt
@@ -159,7 +159,7 @@ ulak
 ```bash
 # Clone repository
 git clone https://github.com/cektor/ULAK.git
-cd ULAK/localsend_app
+cd ULAK
 
 # Install dependencies
 pip install -r requirements.txt
