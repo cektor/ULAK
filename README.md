@@ -453,7 +453,7 @@ We welcome contributions! Here's how you can help:
 - Email: fatih@algsoft.net.tr
 
 ### Company
-**ALG Yazılım & Elektronik Inc.**
+**ALGSoft Inc. & Elektronik Inc.**
 - Website: https://algsoft.net.tr
 - Email: info@algsoft.net.tr
 
@@ -471,7 +471,7 @@ ULAK is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2025 ALG Yazılım & Elektronik Inc.
+Copyright (c) 2025 ALGSoft Inc. & Elektronik Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -502,7 +502,7 @@ If you find ULAK useful, please consider giving it a star on GitHub! ⭐
 
 <div align="center">
 
-**Made with ❤️ by ALG Yazılım**
+**Made with ❤️ by ALGSoft Inc.**
 
 [Download](https://ulak.algsoft.net.tr) • [GitHub](https://github.com/cektor/ULAK/releases) • [Play Store](https://play.google.com/store/apps/details?id=com.ulak) • [Report Bug](https://github.com/cektor/ULAK/issues)
 
