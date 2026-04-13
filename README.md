@@ -433,7 +433,7 @@ We welcome contributions! Here's how you can help:
 ## 📞 Support & Contact
 
 ### Get Help
-- 📧 Email: info@algyazilim.com
+- 📧 Email: info@algsoft.net.tr
 - 🌐 Website: https://ulak.algsoft.net.tr
 - 🐱 GitHub: https://github.com/cektor/ULAK
 - 📖 Documentation: [Wiki](https://github.com/cektor/ULAK/wiki)
@@ -450,12 +450,12 @@ We welcome contributions! Here's how you can help:
 ### Developer
 **Fatih ÖNDER (CekToR)**
 - GitHub: [@cektor](https://github.com/cektor)
-- Email: fatih@algyazilim.com
+- Email: fatih@algsoft.net.tr
 
 ### Company
 **ALG Yazılım & Elektronik Inc.**
-- Website: https://algyazilim.com
-- Email: info@algyazilim.com
+- Website: https://algsoft.net.tr
+- Email: info@algsoft.net.tr
 
 ### Special Thanks
 - PyQt5 team for the excellent UI framework
