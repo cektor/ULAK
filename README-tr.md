@@ -7,7 +7,7 @@
 **Yerel Ağınızda Hızlı, Güvenli ve Kolay Dosya Paylaşımı**
 
 [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android-blue)](https://github.com/cektor/ULAK)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20iOS%20%7C%20iPadOS%20%7C%20watchOS-blue)](https://github.com/cektor/ULAK)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 
 [English](README.md) | [Türkçe](README-tr.md)
@@ -25,7 +25,7 @@
 - 🚀 **Yıldırım Hızı** - Yerel ağ üzerinden doğrudan cihazdan cihaza transfer
 - 🔒 **Güvenli** - Hassas dosyalar için isteğe bağlı AES-256 şifreleme
 - 🎯 **Basit** - Yapılandırma gerekmez, sadece kurun ve paylaşın
-- 🌐 **Çapraz Platform** - Windows, Linux, macOS ve Android'de çalışır
+- 🌐 **Çapraz Platform** - Windows, Linux, macOS, Android, iOS, iPadOS ve watchOS'ta çalışır
 - 📡 **WiFi Direct** - Yönlendirici olmadan doğrudan cihaz bağlantısı (Windows, Linux, Android)
 - 🔗 **Link ile Paylaşım** - Tarayıcı üzerinden erişilebilir paylaşım linkleri oluşturun
 - 📱 **Otomatik Keşif** - Ağınızdaki cihazları otomatik bulur
@@ -83,9 +83,9 @@
 
 ### 🪟 Windows
 - **Sürüm**: Windows 10/11
-- **Kurulum**: Taşınabilir çalıştırılabilir dosya veya yükleyici
+- **Kurulum**: Taşınabilir çalıştırılabilir dosya, yükleyici veya Microsoft Store
 - **Özellikler**: Sistem tepsisi, klavye kısayolları, WiFi Direct ve link paylaşımı dahil tam özellik seti
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### 🐧 Linux
 - **Dağıtımlar**: Pardus, Ubuntu, Linux Mint, Zorin OS (Debian Tabanlı Tüm Dağıtımlar)
@@ -106,16 +106,31 @@
 - **İzinler**: Ağ erişimi, Dosya ve Galeri Erişimi
 - **İndir**: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)
 
+### 🍏 iOS / iPadOS
+- **Sürüm**: iOS 15+ / iPadOS 15+
+- **Kurulum**: App Store
+- **Özellikler**: Tüm temel özelliklerle ve link paylaşımı ile mobil optimize arayüz
+- **İzinler**: Ağ erişimi, Dosyalar ve Fotoğraflar erişimi
+- **İndir**: [App Store](https://apps.apple.com)
+
+### ⌚ watchOS
+- **Sürüm**: watchOS 8+
+- **Kurulum**: App Store (eşlik uygulaması)
+- **Özellikler**: Hızlı dosya gönderimi, transfer bildirimleri ve bileğinizden cihaz keşfi
+- **Not**: Eşleştirilmiş iPhone'da ULAK kurulu olması gerekir
+
 ---
 
 ## 📥 İndirme
 
 | Platform | İndirme |
 |----------|---------|
-| 🪟 Windows | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🪟 Windows | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
 | 🐧 Linux | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🍎 macOS | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
+| ⌚ watchOS | [App Store](https://apps.apple.com) (eşlik uygulaması) |
 
 ---
 
@@ -124,8 +139,10 @@
 ### Yeni Başlayanlar İçin
 
 1. **ULAK'ı İndirin** platformunuz için:
-   - Windows/Linux/macOS: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
+   - Windows: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr), [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)'dan indirin
+   - Linux / macOS: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
    - Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)'dan yükleyin veya `.apk` dosyasını indirin
+   - iOS / iPadOS / watchOS: [App Store](https://apps.apple.com)'dan yükleyin
 
 2. **Uygulamayı kurun** dosya paylaşmak istediğiniz tüm cihazlara
 
@@ -298,7 +315,7 @@ sudo ufw allow 53317/tcp
 sudo ufw allow 53318/udp
 ```
 
-**Android / macOS**:
+**Android / iOS / iPadOS / macOS**:
 ```
 Genellikle yapılandırma gerekmez
 ```
@@ -310,7 +327,7 @@ Genellikle yapılandırma gerekmez
 ### Windows
 - **Taşınabilir**: Sadece `.exe` dosyasını çalıştırın
 - **Gereksinimler**: Windows 10/11, ek yazılım gerekmez
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### Linux
 - **Sistem Kurulumu**: `/usr/share/ulak/` konumuna kurulur
@@ -330,6 +347,16 @@ Genellikle yapılandırma gerekmez
 - **İzinler**: Ağ erişimi, Dosya ve Galeri erişimi
 - **Depolama**: İndirilenler klasörü
 - **Gereksinimler**: Android 7.0+
+
+### iOS / iPadOS
+- **App Store**: [App Store'dan İndir](https://apps.apple.com)
+- **İzinler**: Ağ erişimi, Dosyalar ve Fotoğraflar erişimi
+- **Depolama**: Dosyalar uygulaması / İndirilenler klasörü
+- **Gereksinimler**: iOS 15+ / iPadOS 15+
+
+### watchOS
+- **App Store**: [App Store'dan İndir](https://apps.apple.com) (eşlik uygulaması, iPhone uygulamasıyla birlikte otomatik yüklenir)
+- **Gereksinimler**: watchOS 8+, ULAK kurulu eşleştirilmiş iPhone
 
 ---
 
@@ -394,7 +421,7 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 - 📋 Pano paylaşımı
 - 📸 Ekran görüntüsü paylaşımı
 - 🔒 AES-256 şifreleme
-- 🌐 Çapraz platform desteği (Windows, Linux, macOS, Android)
+- 🌐 Çapraz platform desteği (Windows, Linux, macOS, Android, iOS, iPadOS, watchOS)
 - 📡 WiFi Direct desteği (Windows, Linux, Android)
 - 🔗 Link ile paylaşım desteği (Tüm platformlar)
 - 🎨 Modern karanlık tema arayüz
@@ -502,6 +529,6 @@ ULAK'ı yararlı buluyorsanız, lütfen GitHub'da yıldız vermeyi düşünün! 
 
 **ALGSoft Inc. tarafından ❤️ ile yapıldı**
 
-[İndir](https://ulak.algsoft.net.tr) • [GitHub](https://github.com/cektor/ULAK/releases) • [Play Store](https://play.google.com/store/apps/details?id=com.ulak) • [Hata Bildir](https://github.com/cektor/ULAK/issues)
+[İndir](https://ulak.algsoft.net.tr) • [GitHub](https://github.com/cektor/ULAK/releases) • [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) • [Play Store](https://play.google.com/store/apps/details?id=com.ulak) • [App Store](https://apps.apple.com) • [Hata Bildir](https://github.com/cektor/ULAK/issues)
 
 </div>
