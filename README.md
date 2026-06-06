@@ -7,7 +7,7 @@
 **Fast, Secure, and Easy File Sharing Across Your Local Network**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android-blue)](https://github.com/cektor/ULAK)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20iOS%20%7C%20iPadOS%20%7C%20watchOS-blue)](https://github.com/cektor/ULAK)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 
 [English](README.md) | [Türkçe](README-tr.md)
@@ -25,7 +25,7 @@
 - 🚀 **Lightning Fast** - Direct device-to-device transfer over local network
 - 🔒 **Secure** - Optional AES-256 encryption for sensitive files
 - 🎯 **Simple** - No configuration needed, just install and share
-- 🌐 **Cross-Platform** - Works on Windows, Linux, macOS, and Android
+- 🌐 **Cross-Platform** - Works on Windows, Linux, macOS, Android, iOS, iPadOS, and watchOS
 - 📡 **Wi-Fi Direct** - Direct device connection without a router (Windows, Linux, Android)
 - 🔗 **Link Sharing** - Create browser-accessible shareable links for your files
 - 📱 **Auto-Discovery** - Automatically finds devices on your network
@@ -83,9 +83,9 @@
 
 ### 🪟 Windows
 - **Version**: Windows 10/11
-- **Installation**: Portable executable or installer
+- **Installation**: Portable executable, installer, or Microsoft Store
 - **Features**: Full feature set including system tray, keyboard shortcuts, Wi-Fi Direct, and link sharing
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### 🐧 Linux
 - **Distributions**: Pardus, Ubuntu, Linux Mint, Zorin OS (All Debian-based Distributions)
@@ -106,16 +106,31 @@
 - **Permissions**: Network access, File and Gallery access
 - **Download**: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)
 
+### 🍏 iOS / iPadOS
+- **Version**: iOS 15+ / iPadOS 15+
+- **Installation**: App Store
+- **Features**: Mobile-optimized interface with all core features and link sharing
+- **Permissions**: Network access, Files and Photos access
+- **Download**: [App Store](https://apps.apple.com)
+
+### ⌚ watchOS
+- **Version**: watchOS 8+
+- **Installation**: App Store (companion app)
+- **Features**: Quick file sending, transfer notifications, and device discovery from your wrist
+- **Note**: Requires ULAK installed on a paired iPhone
+
 ---
 
 ## 📥 Download
 
 | Platform | Download |
 |----------|---------|
-| 🪟 Windows | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🪟 Windows | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
 | 🐧 Linux | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🍎 macOS | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) or [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
+| ⌚ watchOS | [App Store](https://apps.apple.com) (companion app) |
 
 ---
 
@@ -124,8 +139,10 @@
 ### For Beginners
 
 1. **Download ULAK** for your platform:
-   - Windows / Linux / macOS: Download from [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+   - Windows: Download from [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr), [GitHub Releases](https://github.com/cektor/ULAK/releases), or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
+   - Linux / macOS: Download from [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
    - Android: Install from [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) or download the `.apk` file
+   - iOS / iPadOS / watchOS: Install from [App Store](https://apps.apple.com)
 
 2. **Install** the application on all devices you want to share files between
 
@@ -298,7 +315,7 @@ sudo ufw allow 53317/tcp
 sudo ufw allow 53318/udp
 ```
 
-**Android / macOS**:
+**Android / iOS / iPadOS / macOS**:
 ```
 Usually no configuration needed
 ```
@@ -310,7 +327,7 @@ Usually no configuration needed
 ### Windows
 - **Portable**: Just run the `.exe` file
 - **Requirements**: Windows 10/11, no additional software needed
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### Linux
 - **System Installation**: Installs to `/usr/share/ulak/`
@@ -330,6 +347,16 @@ Usually no configuration needed
 - **Permissions**: Network access, File and Gallery access
 - **Storage**: Downloads folder
 - **Requirements**: Android 7.0+
+
+### iOS / iPadOS
+- **App Store**: [Download from App Store](https://apps.apple.com)
+- **Permissions**: Network access, Files and Photos access
+- **Storage**: Files app / Downloads folder
+- **Requirements**: iOS 15+ / iPadOS 15+
+
+### watchOS
+- **App Store**: [Download from App Store](https://apps.apple.com) (companion app, installed automatically with iPhone app)
+- **Requirements**: watchOS 8+, paired iPhone with ULAK installed
 
 ---
 
@@ -394,7 +421,7 @@ We welcome contributions! Here's how you can help:
 - 📋 Clipboard sharing
 - 📸 Screenshot sharing
 - 🔒 AES-256 encryption
-- 🌐 Cross-platform support (Windows, Linux, macOS, Android)
+- 🌐 Cross-platform support (Windows, Linux, macOS, Android, iOS, iPadOS, watchOS)
 - 📡 Wi-Fi Direct support (Windows, Linux, Android)
 - 🔗 Link sharing support (All platforms)
 - 🎨 Modern dark theme UI
@@ -504,6 +531,6 @@ If you find ULAK useful, please consider giving it a star on GitHub! ⭐
 
 **Made with ❤️ by ALGSoft Inc.**
 
-[Download](https://ulak.algsoft.net.tr) • [GitHub](https://github.com/cektor/ULAK/releases) • [Play Store](https://play.google.com/store/apps/details?id=com.ulak) • [Report Bug](https://github.com/cektor/ULAK/issues)
+[Download](https://ulak.algsoft.net.tr) • [GitHub](https://github.com/cektor/ULAK/releases) • [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) • [Play Store](https://play.google.com/store/apps/details?id=com.ulak) • [App Store](https://apps.apple.com) • [Report Bug](https://github.com/cektor/ULAK/issues)
 
 </div>
