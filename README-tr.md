@@ -85,19 +85,19 @@
 - **Sürüm**: Windows 10/11
 - **Kurulum**: Taşınabilir çalıştırılabilir dosya, yükleyici veya Microsoft Store
 - **Özellikler**: Sistem tepsisi, klavye kısayolları, WiFi Direct ve link paylaşımı dahil tam özellik seti
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### 🐧 Linux
 - **Dağıtımlar**: Pardus, Ubuntu, Linux Mint, Zorin OS (Debian Tabanlı Tüm Dağıtımlar)
 - **Kurulum**: Sistem paketi, bağımsız Python scripti veya .DEB
 - **Özellikler**: Masaüstü entegrasyonu, WiFi Direct ve link paylaşımı dahil tam özellik seti
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### 🍎 macOS
 - **Sürüm**: macOS 11+ (Intel ve Apple Silicon)
 - **Kurulum**: Uygulama paketi (.app)
 - **Özellikler**: Yerel macOS entegrasyonu ile link paylaşımı dahil tam özellik seti
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### 🤖 Android
 - **Sürüm**: Android 7.0+
@@ -125,9 +125,9 @@
 
 | Platform | İndirme |
 |----------|---------|
-| 🪟 Windows | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
-| 🐧 Linux | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
-| 🍎 macOS | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🪟 Windows | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
+| 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [App Store](https://apps.apple.com) |
 | 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
 | ⌚ watchOS | [App Store](https://apps.apple.com) (eşlik uygulaması) |
@@ -139,8 +139,8 @@
 ### Yeni Başlayanlar İçin
 
 1. **ULAK'ı İndirin** platformunuz için:
-   - Windows: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr), [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)'dan indirin
-   - Linux / macOS: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
+   - Windows: [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)'dan indirin
+   - Linux / macOS: [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
    - Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)'dan yükleyin veya `.apk` dosyasını indirin
    - iOS / iPadOS / watchOS: [App Store](https://apps.apple.com)'dan yükleyin
 
@@ -327,7 +327,7 @@ Genellikle yapılandırma gerekmez
 ### Windows
 - **Taşınabilir**: Sadece `.exe` dosyasını çalıştırın
 - **Gereksinimler**: Windows 10/11, ek yazılım gerekmez
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### Linux
 - **Sistem Kurulumu**: `/usr/share/ulak/` konumuna kurulur
@@ -335,11 +335,11 @@ Genellikle yapılandırma gerekmez
 - **Desktop Entry**: Uygulama menüsüne eklenir
 - **Yapılandırma**: `~/.config/ulak/` içinde saklanır
 - **Gereksinimler**: Python 3.8+, PyQt5, cryptography
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### macOS
 - **Gereksinimler**: macOS 11+ (Intel ve Apple Silicon desteklenir)
-- **İndir**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) veya [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### Android
 - **Play Store**: [Google Play'den İndir](https://play.google.com/store/apps/details?id=com.ulak)
