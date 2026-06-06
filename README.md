@@ -85,19 +85,19 @@
 - **Version**: Windows 10/11
 - **Installation**: Portable executable, installer, or Microsoft Store
 - **Features**: Full feature set including system tray, keyboard shortcuts, Wi-Fi Direct, and link sharing
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### 🐧 Linux
 - **Distributions**: Pardus, Ubuntu, Linux Mint, Zorin OS (All Debian-based Distributions)
 - **Installation**: System package, standalone Python script, or .DEB
 - **Features**: Full feature set with desktop integration, Wi-Fi Direct, and link sharing
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### 🍎 macOS
 - **Version**: macOS 11+ (Intel and Apple Silicon)
 - **Installation**: Application bundle (.app)
 - **Features**: Full feature set with native macOS integration and link sharing
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### 🤖 Android
 - **Version**: Android 7.0+
@@ -125,10 +125,10 @@
 
 | Platform | Download |
 |----------|---------|
-| 🪟 Windows | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
-| 🐧 Linux | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) |
-| 🍎 macOS | [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) |
-| 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) or [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🪟 Windows |  [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
+| 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com) |
+| 🤖 Android | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) |
 | 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
 | ⌚ watchOS | [App Store](https://apps.apple.com) (companion app) |
 
@@ -139,8 +139,8 @@
 ### For Beginners
 
 1. **Download ULAK** for your platform:
-   - Windows: Download from [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr), [GitHub Releases](https://github.com/cektor/ULAK/releases), or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
-   - Linux / macOS: Download from [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+   - Windows: Download from [GitHub Releases](https://github.com/cektor/ULAK/releases), or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
+   - Linux / macOS: Download from [GitHub Releases](https://github.com/cektor/ULAK/releases)
    - Android: Install from [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) or download the `.apk` file
    - iOS / iPadOS / watchOS: Install from [App Store](https://apps.apple.com)
 
@@ -327,7 +327,7 @@ Usually no configuration needed
 ### Windows
 - **Portable**: Just run the `.exe` file
 - **Requirements**: Windows 10/11, no additional software needed
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### Linux
 - **System Installation**: Installs to `/usr/share/ulak/`
@@ -335,11 +335,11 @@ Usually no configuration needed
 - **Desktop Entry**: Added to application menu
 - **Config**: Stored in `~/.config/ulak/`
 - **Requirements**: Python 3.8+, PyQt5, cryptography
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### macOS
 - **Requirements**: macOS 11+ (Intel and Apple Silicon supported)
-- **Download**: [ulak.algsoft.net.tr](https://ulak.algsoft.net.tr) or [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### Android
 - **Play Store**: [Download from Google Play](https://play.google.com/store/apps/details?id=com.ulak)
