@@ -89,7 +89,7 @@
 
 ### 🐧 Linux
 - **Dağıtımlar**: Pardus, Ubuntu, Linux Mint, Zorin OS (Debian Tabanlı Tüm Dağıtımlar) Diğer Dağıtımlar İçin AppImage
-- **Kurulum**: Sistem paketi, bağımsız Python scripti veya .DEB
+- **Kurulum**: Sistem paketi, bağımsız Python scripti veya .DEB yada AppImage
 - **Özellikler**: Masaüstü entegrasyonu, WiFi Direct ve link paylaşımı dahil tam özellik seti
 - **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
