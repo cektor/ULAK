@@ -126,7 +126,7 @@
 | Platform | İndirme |
 |----------|---------|
 | 🪟 Windows | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
-| 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) | AppImage
+| 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) | AppImage |
 | 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [App Store](https://apps.apple.com) |
 | 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
