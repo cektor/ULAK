@@ -111,7 +111,7 @@
 - **Installation**: App Store
 - **Features**: Mobile-optimized interface with all core features and link sharing
 - **Permissions**: Network access, Files and Photos access
-- **Download**: [App Store]([https://apps.apple.com](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr))
+- **Download**: [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 ### ⌚ watchOS
 - **Version**: watchOS 8+
