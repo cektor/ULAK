@@ -89,7 +89,7 @@
 
 ### 🐧 Linux
 - **Distributions**: Pardus, Ubuntu, Linux Mint, Zorin OS (All Debian-based Distributions) AppImage for Other Distributions
-- **Installation**: System package, standalone Python script, or .DEB
+- **Installation**: System package, standalone Python script, or .DEB or AppImage
 - **Features**: Full feature set with desktop integration, Wi-Fi Direct, and link sharing
 - **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
