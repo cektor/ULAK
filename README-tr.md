@@ -111,7 +111,7 @@
 - **Kurulum**: App Store
 - **Özellikler**: Tüm temel özelliklerle ve link paylaşımı ile mobil optimize arayüz
 - **İzinler**: Ağ erişimi, Dosyalar ve Fotoğraflar erişimi
-- **İndir**: [App Store](https://apps.apple.com)
+- **İndir**: [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 ### ⌚ watchOS
 - **Sürüm**: watchOS 8+
@@ -129,8 +129,8 @@
 | 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [App Store](https://apps.apple.com) |
 | 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
-| 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
-| ⌚ watchOS | [App Store](https://apps.apple.com) (eşlik uygulaması) |
+| 🍏 iOS / iPadOS | [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) |
+| ⌚ watchOS | [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) (eşlik uygulaması) |
 
 ---
 
@@ -142,7 +142,7 @@
    - Windows: [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)'dan indirin
    - Linux / macOS: [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
    - Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)'dan yükleyin veya `.apk` dosyasını indirin
-   - iOS / iPadOS / watchOS: [App Store](https://apps.apple.com)'dan yükleyin
+   - iOS / iPadOS / watchOS: [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)'dan yükleyin
 
 2. **Uygulamayı kurun** dosya paylaşmak istediğiniz tüm cihazlara
 
@@ -349,13 +349,13 @@ Genellikle yapılandırma gerekmez
 - **Gereksinimler**: Android 7.0+
 
 ### iOS / iPadOS
-- **App Store**: [App Store'dan İndir](https://apps.apple.com)
+- **App Store**: [App Store'dan İndir](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 - **İzinler**: Ağ erişimi, Dosyalar ve Fotoğraflar erişimi
 - **Depolama**: Dosyalar uygulaması / İndirilenler klasörü
 - **Gereksinimler**: iOS 15+ / iPadOS 15+
 
 ### watchOS
-- **App Store**: [App Store'dan İndir](https://apps.apple.com) (eşlik uygulaması, iPhone uygulamasıyla birlikte otomatik yüklenir)
+- **App Store**: [App Store'dan İndir](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) (eşlik uygulaması, iPhone uygulamasıyla birlikte otomatik yüklenir)
 - **Gereksinimler**: watchOS 8+, ULAK kurulu eşleştirilmiş iPhone
 
 ---
