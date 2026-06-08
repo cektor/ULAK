@@ -111,7 +111,7 @@
 - **Installation**: App Store
 - **Features**: Mobile-optimized interface with all core features and link sharing
 - **Permissions**: Network access, Files and Photos access
-- **Download**: [App Store](https://apps.apple.com)
+- **Download**: [App Store]([https://apps.apple.com](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr))
 
 ### ⌚ watchOS
 - **Version**: watchOS 8+
@@ -129,7 +129,7 @@
 | 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) | AppImage
 | 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com) |
 | 🤖 Android | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) |
-| 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
+| 🍏 iOS / iPadOS | [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) |
 | ⌚ watchOS | [App Store](https://apps.apple.com) (companion app) |
 
 ---
@@ -142,7 +142,7 @@
    - Windows: Download from [GitHub Releases](https://github.com/cektor/ULAK/releases), or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
    - Linux / macOS: Download from [GitHub Releases](https://github.com/cektor/ULAK/releases)
    - Android: Install from [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) or download the `.apk` file
-   - iOS / iPadOS / watchOS: Install from [App Store](https://apps.apple.com)
+   - iOS / iPadOS / watchOS: Install from [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 2. **Install** the application on all devices you want to share files between
 
@@ -349,13 +349,13 @@ Usually no configuration needed
 - **Requirements**: Android 7.0+
 
 ### iOS / iPadOS
-- **App Store**: [Download from App Store](https://apps.apple.com)
+- **App Store**: [Download from App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 - **Permissions**: Network access, Files and Photos access
 - **Storage**: Files app / Downloads folder
 - **Requirements**: iOS 15+ / iPadOS 15+
 
 ### watchOS
-- **App Store**: [Download from App Store](https://apps.apple.com) (companion app, installed automatically with iPhone app)
+- **App Store**: [Download from App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) (companion app, installed automatically with iPhone app)
 - **Requirements**: watchOS 8+, paired iPhone with ULAK installed
 
 ---
