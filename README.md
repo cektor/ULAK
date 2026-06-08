@@ -94,8 +94,8 @@
 - **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### 🍎 macOS
-- **Version**: macOS 11+ (Intel and Apple Silicon)
-- **Installation**: Application bundle (.app)
+- **Version**: macOS 11+ (Apple Silicon)
+- **Installation**: Application bundle (.dmg)
 - **Features**: Full feature set with native macOS integration and link sharing
 - **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
@@ -338,7 +338,7 @@ Usually no configuration needed
 - **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### macOS
-- **Requirements**: macOS 11+ (Intel and Apple Silicon supported)
+- **Requirements**: macOS 11+ (Apple Silicon supported)
 - **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
 
 ### Android
