@@ -97,7 +97,7 @@
 - **Sürüm**: macOS 11+ (Apple Silicon)
 - **Kurulum**: Uygulama paketi (.dmg)
 - **Özellikler**: Yerel macOS entegrasyonu ile link paylaşımı dahil tam özellik seti
-- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) yada [App Store](https://apps.apple.com)
 
 ### 🤖 Android
 - **Sürüm**: Android 7.0+
@@ -339,7 +339,7 @@ Genellikle yapılandırma gerekmez
 
 ### macOS
 - **Gereksinimler**: macOS 11+ (Apple Silicon desteklenir)
-- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) yada [App Store](https://apps.apple.com)
 
 ### Android
 - **Play Store**: [Google Play'den İndir](https://play.google.com/store/apps/details?id=com.ulak)
