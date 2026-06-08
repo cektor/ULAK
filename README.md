@@ -88,7 +88,7 @@
 - **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 ### 🐧 Linux
-- **Distributions**: Pardus, Ubuntu, Linux Mint, Zorin OS (All Debian-based Distributions)
+- **Distributions**: Pardus, Ubuntu, Linux Mint, Zorin OS (All Debian-based Distributions) AppImage for Other Distributions
 - **Installation**: System package, standalone Python script, or .DEB
 - **Features**: Full feature set with desktop integration, Wi-Fi Direct, and link sharing
 - **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases)
@@ -126,7 +126,7 @@
 | Platform | Download |
 |----------|---------|
 | 🪟 Windows |  [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
-| 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) |
+| 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) | AppImage
 | 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com) |
 | 🤖 Android | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) |
 | 🍏 iOS / iPadOS | [App Store](https://apps.apple.com) |
