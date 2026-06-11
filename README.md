@@ -79,6 +79,76 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+**ULAK on every platform**
+
+</div>
+
+<details open>
+<summary><b>🪟 Windows</b></summary>
+<br>
+<p align="center">
+  <img src="screenshots/windows/windows_6a295ec2a81857.33788553.webp" width="32%" alt="ULAK Windows - Send screen"/>
+  <img src="screenshots/windows/windows_6a295ec2a86d36.35811198.webp" width="32%" alt="ULAK Windows - Received files"/>
+  <img src="screenshots/windows/windows_6a295ec2a8a423.68772108.webp" width="32%" alt="ULAK Windows - About"/>
+</p>
+</details>
+
+<details>
+<summary><b>🍎 macOS</b></summary>
+<br>
+<p align="center">
+  <img src="screenshots/macos/macos_6a2a861c953e27.51835695.webp" width="32%" alt="ULAK macOS - Send screen"/>
+  <img src="screenshots/macos/macos_6a2a861c95cf52.71160417.webp" width="32%" alt="ULAK macOS - Received files"/>
+  <img src="screenshots/macos/macos_6a2a861c963e93.80700782.webp" width="32%" alt="ULAK macOS - About"/>
+</p>
+</details>
+
+<details>
+<summary><b>🐧 Linux</b></summary>
+<br>
+<p align="center">
+  <img src="screenshots/linux/linux_6a2952667edb46.42611437.webp" width="32%" alt="ULAK Linux - Send screen"/>
+  <img src="screenshots/linux/linux_6a2952667f35d7.48871780.webp" width="32%" alt="ULAK Linux - Received files"/>
+  <img src="screenshots/linux/linux_6a2952667f8122.12463873.webp" width="32%" alt="ULAK Linux - About"/>
+</p>
+</details>
+
+<details>
+<summary><b>🤖 Android</b></summary>
+<br>
+<p align="center">
+  <img src="screenshots/android/android1.webp" width="24%" alt="ULAK Android - Send screen"/>
+  <img src="screenshots/android/android2.webp" width="24%" alt="ULAK Android - Received files"/>
+  <img src="screenshots/android/android3.webp" width="24%" alt="ULAK Android - Settings"/>
+</p>
+</details>
+
+<details>
+<summary><b>🍏 iOS / iPadOS</b></summary>
+<br>
+<p align="center">
+  <img src="screenshots/ios/ios1.webp" width="24%" alt="ULAK iOS - Send screen"/>
+  <img src="screenshots/ios/ios2.webp" width="24%" alt="ULAK iOS - Received files"/>
+  <img src="screenshots/ios/ios3.webp" width="24%" alt="ULAK iOS - Settings"/>
+</p>
+</details>
+
+<details>
+<summary><b>⌚ watchOS</b></summary>
+<br>
+<p align="center">
+  <img src="screenshots/watchos/watchcos1.webp" width="20%" alt="ULAK watchOS - Device list"/>
+  <img src="screenshots/watchos/watchcos2.webp" width="20%" alt="ULAK watchOS - Transfer"/>
+  <img src="screenshots/watchos/watchcos3.webp" width="20%" alt="ULAK watchOS - Notification"/>
+</p>
+</details>
+
+---
+
 ## 📱 Platform Support
 
 ### 🪟 Windows
