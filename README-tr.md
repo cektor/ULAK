@@ -167,7 +167,7 @@
 - **Sürüm**: macOS 11+ (Apple Silicon)
 - **Kurulum**: Uygulama paketi (.dmg)
 - **Özellikler**: Yerel macOS entegrasyonu ile link paylaşımı dahil tam özellik seti
-- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) yada [App Store](https://apps.apple.com)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) yada [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 ### 🤖 Android
 - **Sürüm**: Android 7.0+
@@ -197,7 +197,7 @@
 |----------|---------|
 | 🪟 Windows | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
 | 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) |
-| 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [App Store](https://apps.apple.com) |
+| 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) |
 | 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) veya [GitHub Releases](https://github.com/cektor/ULAK/releases) |
 | 🍏 iOS / iPadOS | [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) |
 | ⌚ watchOS | [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) (eşlik uygulaması) |
@@ -210,7 +210,7 @@
 
 1. **ULAK'ı İndirin** platformunuz için:
    - Windows: [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)'dan indirin
-   - Linux / macOS: [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
+   - Linux / macOS: [GitHub Releases](https://github.com/cektor/ULAK/releases) yada [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) sayfasından indirin
    - Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)'dan yükleyin veya `.apk` dosyasını indirin
    - iOS / iPadOS / watchOS: [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)'dan yükleyin
 
@@ -409,7 +409,7 @@ Genellikle yapılandırma gerekmez
 
 ### macOS
 - **Gereksinimler**: macOS 11+ (Apple Silicon desteklenir)
-- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) yada [App Store](https://apps.apple.com)
+- **İndir**: [GitHub Releases](https://github.com/cektor/ULAK/releases) yada [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 ### Android
 - **Play Store**: [Google Play'den İndir](https://play.google.com/store/apps/details?id=com.ulak)
@@ -483,20 +483,6 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 ---
 
 ## 📝 Değişiklik Günlüğü
-
-### Sürüm 1.0.0 (Güncel)
-- ✨ İlk sürüm
-- 📁 Dosya ve klasör paylaşımı
-- 💬 Metin mesajlaşma
-- 📋 Pano paylaşımı
-- 📸 Ekran görüntüsü paylaşımı
-- 🔒 AES-256 şifreleme
-- 🌐 Çapraz platform desteği (Windows, Linux, macOS, Android, iOS, iPadOS, watchOS)
-- 📡 WiFi Direct desteği (Windows, Linux, Android)
-- 🔗 Link ile paylaşım desteği (Tüm platformlar)
-- 🎨 Modern karanlık tema arayüz
-- 📊 Gerçek zamanlı transfer ilerlemesi
-- 🔔 Bildirimler ve sesler
 
 ---
 
