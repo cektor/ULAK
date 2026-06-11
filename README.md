@@ -167,7 +167,7 @@
 - **Version**: macOS 11+ (Apple Silicon)
 - **Installation**: Application bundle (.dmg)
 - **Features**: Full feature set with native macOS integration and link sharing
-- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 ### 🤖 Android
 - **Version**: Android 7.0+
@@ -197,10 +197,10 @@
 |----------|---------|
 | 🪟 Windows |  [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare) |
 | 🐧 Linux | [GitHub Releases](https://github.com/cektor/ULAK/releases) | AppImage
-| 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com) |
+| 🍎 macOS | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) |
 | 🤖 Android | [GitHub Releases](https://github.com/cektor/ULAK/releases) or [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) |
 | 🍏 iOS / iPadOS | [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) |
-| ⌚ watchOS | [App Store](https://apps.apple.com) (companion app) |
+| ⌚ watchOS | [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr) (companion app) |
 
 ---
 
@@ -409,7 +409,7 @@ Usually no configuration needed
 
 ### macOS
 - **Requirements**: macOS 11+ (Apple Silicon supported)
-- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com)
+- **Download**: [GitHub Releases](https://github.com/cektor/ULAK/releases) or [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 ### Android
 - **Play Store**: [Download from Google Play](https://play.google.com/store/apps/details?id=com.ulak)
@@ -483,20 +483,6 @@ We welcome contributions! Here's how you can help:
 ---
 
 ## 📝 Changelog
-
-### Version 1.0.0 (Current)
-- ✨ Initial release
-- 📁 File and folder sharing
-- 💬 Text messaging
-- 📋 Clipboard sharing
-- 📸 Screenshot sharing
-- 🔒 AES-256 encryption
-- 🌐 Cross-platform support (Windows, Linux, macOS, Android, iOS, iPadOS, watchOS)
-- 📡 Wi-Fi Direct support (Windows, Linux, Android)
-- 🔗 Link sharing support (All platforms)
-- 🎨 Modern dark theme UI
-- 📊 Real-time transfer progress
-- 🔔 Notifications and sounds
 
 ---
 
