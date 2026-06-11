@@ -210,9 +210,9 @@
 
 1. **Download ULAK** for your platform:
    - Windows: Download from [GitHub Releases](https://github.com/cektor/ULAK/releases), or [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)
-   - Linux / macOS: Download from [GitHub Releases](https://github.com/cektor/ULAK/releases)
+   - Linux: Download from [GitHub Releases](https://github.com/cektor/ULAK/releases)
    - Android: Install from [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak) or download the `.apk` file
-   - iOS / iPadOS / watchOS: Install from [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
+   - iOS / iPadOS / watchOS / macOS: Install from [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)
 
 2. **Install** the application on all devices you want to share files between
 
