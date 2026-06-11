@@ -210,7 +210,7 @@
 
 1. **ULAK'ı İndirin** platformunuz için:
    - Windows: [GitHub Releases](https://github.com/cektor/ULAK/releases) veya [Microsoft Store](https://apps.microsoft.com/detail/9NPQX6K5RHQQ?hl=tr-tr&gl=TR&ocid=pdpshare)'dan indirin
-   - Linux / macOS: [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
+   - Linux: [GitHub Releases](https://github.com/cektor/ULAK/releases) sayfasından indirin
    - Android: [Google Play Store](https://play.google.com/store/apps/details?id=com.ulak)'dan yükleyin veya `.apk` dosyasını indirin
    - iOS / iPadOS / watchOS / macOS: [App Store](https://apps.apple.com/tr/app/ulak-h%C4%B1zl%C4%B1-dosya-transferi/id6776188510?l=tr)'dan yükleyin
 
