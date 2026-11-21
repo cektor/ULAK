@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="ulak_transparan.png" alt="ULAK Logo" width="120"/>
+<img src="ulak_transparan.png" alt="ULAK Logo" width="170"/>
 
 **Fast, Secure, and Easy File Sharing Across Your Local Network**
 
