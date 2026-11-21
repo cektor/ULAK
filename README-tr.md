@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="img/logo.png" alt="ULAK Logo" width="120"/>
+<img src="ulak_transparan.png" alt="ULAK Logo" width="180"/>
 
 **Yerel Ağınızda Hızlı, Güvenli ve Kolay Dosya Paylaşımı**
 
